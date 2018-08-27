@@ -1,0 +1,139 @@
+.header{
+    background:white;
+}
+.header_center {
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+
+}
+.header_top {
+    background:white;
+}
+.header_top_left{
+    float:left;
+    text-align: left;
+    background: white;
+    width:50%;
+}
+.header_top_right{
+    float:right;
+    text-align: right;
+    background: white;
+    width:50%;
+}
+#invoice{
+    font-weight: 600;
+    padding-left: 80px;
+    margin-top:4px;
+}
+#org_copy{
+    padding-right:50px;
+    margin-top:4px;
+}
+.title{
+    font-size: 18px;
+    color:#000;
+    text-align:center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.subtitle{
+    font-size: 14px;
+    color:#000;
+    text-align:center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.footer{
+    background:white;
+    margin: 0%;
+}
+.footer_bottom {
+    background: white;
+    margin-bottom: 0px;
+}
+
+.footer_top {
+    background:white;
+}
+.footer_top_left{
+    float:left;
+    text-align: left;
+    background: white;
+    width:50%;
+}
+.footer_top_right{
+    float:right;
+    text-align: right;
+    background: white;
+    width:50%;
+}
+.footer_bottom_left{
+    margin-bottom: 0px;
+    margin-right: 50%;
+    float:left;
+    text-align: left;
+    background: white;
+    width:50%;
+}
+.footer_bottom_right{
+    float:right;
+    margin-bottom: 0px;
+    margin-left: 50%;
+    margin-right: 0%;
+    text-align: right;
+    background: white;
+    width:50%;
+}
+.tnc{
+    font-weight: 600;
+    padding-left: 80px;
+    margin-top:0px;
+}
+.for{
+    font-weight: 600;
+    padding-right:50px;
+    margin-top:4px;
+}
+.subjectTo{
+    font-size: 14px;
+    color:#000;
+    text-align:right;
+    margin-right:4px;
+}
+.address{
+    font-size: 14px;
+    font-weight: 600;
+    color:#000;
+    text-align:left;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-top: 5px;
+}
+.boldSmallTextLeft{
+    font-size:12px;font-weight: 600;text-align: left;margin-left: 4px;margin-top:4px;
+}
+.boldSmallTextCenter{
+    font-size:12px;font-weight: 600;text-align: center;margin-top:4px;
+}
+.boldSmallTextRight{
+    font-size:12px;font-weight: 600;text-align: right;margin-right: 4px;margin-top:4px;
+}
+.boldMidSizeTextLeft{
+    font-size:16px;font-weight: 600;text-align: left;margin-left: 4px;margin-top:4px;
+}
+.boldMidSizeTextRight{
+    font-size:16px;font-weight: 600;text-align: right;margin-right: 4px;margin-top:4px;
+}
+.boldMidSizeTextCenter{
+    font-size:16px;font-weight: 600;text-align: center;margin-top:4px;
+}
+.boldBigTextLeft{
+    font-size:22px;font-weight: 600;text-align: left;margin-left: 4px;margin-top:4px;
+}
+.boldBigTextRight{
+    font-size:22px;font-weight: 600;text-align: right;margin-right: 4px;margin-top:4px;
+}
+.boldBigTextCenter{
+    font-size:22px;font-weight: 600;text-align: center;margin-top:4px;
+}
